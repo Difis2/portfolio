@@ -355,6 +355,7 @@ section {
 
 #experience {
   position: relative;
+    height: auto;
 }
 
 .experience-sub-title {
@@ -397,6 +398,7 @@ article .icon {
 
 #projects {
   position: relative;
+    height: auto;
 }
 
 .color-container {

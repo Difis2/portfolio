@@ -6,9 +6,6 @@
   #projects {
     height: fit-content;
   }
-  #about{
-    height: auto;
-  }
 }
 
 @media screen and (max-width: 1200px) {
@@ -43,6 +40,8 @@
     width: 275px;
     height: 275px;
     margin: 0 auto 2rem;
+    display: flex;
+    justify-content: center;
   }
   .about-containers {
     margin-top: 0;
