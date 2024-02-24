@@ -167,7 +167,6 @@ section {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
 }
 
 .section__pic-container {
@@ -304,6 +303,7 @@ section {
 #about {
   position: relative;
   background-color: white;
+  height: auto;
 }
 
 .about-containers {
